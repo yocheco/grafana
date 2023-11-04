@@ -1,3 +1,11 @@
+# Install
+
+install plugin grafana loki inn docker
+
+```
+docker plugin install grafana/loki-docker-driver:latest --alias loki --grant-all-permissions
+```
+
 ## Codigos git
 
 Construccionn: :construction: | Test: :test_tube:
